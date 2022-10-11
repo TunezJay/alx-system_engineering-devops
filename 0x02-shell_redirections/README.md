@@ -4,3 +4,4 @@ Task 1. Write a script that displays a confused smiley "(Ôo)'
 Task 2. Displays the content of the /etc/passwd file
 Task 3. Displays the content of two files
 Task 4. Displays the last 10 lines of a file
+Task 5. Displays the first 10 lines of a file
